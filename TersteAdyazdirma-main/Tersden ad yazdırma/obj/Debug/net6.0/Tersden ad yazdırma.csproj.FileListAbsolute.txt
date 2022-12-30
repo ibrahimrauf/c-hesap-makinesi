@@ -1,0 +1,15 @@
+C:\Users\abn\Desktop\Tersden ad yazdırma\bin\Debug\net6.0\Tersden ad yazdırma.exe
+C:\Users\abn\Desktop\Tersden ad yazdırma\bin\Debug\net6.0\Tersden ad yazdırma.deps.json
+C:\Users\abn\Desktop\Tersden ad yazdırma\bin\Debug\net6.0\Tersden ad yazdırma.runtimeconfig.json
+C:\Users\abn\Desktop\Tersden ad yazdırma\bin\Debug\net6.0\Tersden ad yazdırma.dll
+C:\Users\abn\Desktop\Tersden ad yazdırma\bin\Debug\net6.0\Tersden ad yazdırma.pdb
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.csproj.AssemblyReference.cache
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.AssemblyInfoInputs.cache
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.AssemblyInfo.cs
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.dll
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\refint\Tersden ad yazdırma.dll
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.pdb
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\Tersden ad yazdırma.genruntimeconfig.cache
+C:\Users\abn\Desktop\Tersden ad yazdırma\obj\Debug\net6.0\ref\Tersden ad yazdırma.dll
